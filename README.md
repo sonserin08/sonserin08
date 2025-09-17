@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Serin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Serin's%20GitHub&fontSize=42" />
