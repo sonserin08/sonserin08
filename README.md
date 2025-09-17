@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=150&section=header&text=Serin's%20GitHub&fontSize=42" />
 
 <div align="center">
-  <h1> Tech Stack </h1>
+  <h1> 💻Tech Stack💻 </h1>
   <p>Techs that I've used at least once</p>
 </div>
 
